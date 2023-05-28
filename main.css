@@ -1,0 +1,27 @@
+.blog-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-post {
+  flex: 1;
+  margin: 1em;
+  text-align: center;
+}
+
+.blog-post img {
+  width: 100%;
+}
+
+.blog-post div {
+  padding: 0.5em;
+}
+
+.cucu-banner {
+  text-align: center;
+}
+
+.cucu-banner h1 {
+  font-family: 'Georgia', serif;
+  font-size: 2em; /* フォントサイズを調整 */
+}
